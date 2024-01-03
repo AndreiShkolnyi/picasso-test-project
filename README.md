@@ -1,6 +1,8 @@
 # picassso-test
 # Тестовое задание по созданию списка постов с виртуализацией + бесконечным скроллом
 
+Ссылка на ghpages: https://volodin32104.github.io/picasso-test-project/
+
 ### Используемые технологии:
 1. React
 2. RTK Query
