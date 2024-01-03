@@ -1,0 +1,19 @@
+.container {
+  height: 200px;
+  width: 800px;
+  padding: 20px;
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: #7ac8ec;
+  margin: 20px auto;
+  text-align: center;
+}
+
+.post_id {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.title {
+  font-size: 18px;
+}
